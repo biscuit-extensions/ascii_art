@@ -1,0 +1,7 @@
+[extension]
+id = "ascii_art"
+name = "Ascii Art"
+version = "0.1.0"
+description = "Ascii Art extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
